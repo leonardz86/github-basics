@@ -1,3 +1,3 @@
-# github-basics
-=======================
-Remote repo to help me test out my Github skills!
+# Github Basics
+
+Remote repo. Trial from Github Basics course from Linkedin Learning.
